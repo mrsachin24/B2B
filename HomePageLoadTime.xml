@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Home Page Load Time Tests">
+    <test name="Home ART Home Page Loading">
+        <classes><class name="HomePageLoadTime.testHomeARTHomePageLoading" ></class></classes></test>
+     <test name="Kohinoor Home Page Loading">
+        <classes><class name="HomePageLoadTime.testKohinoorHomePageLoading" ></class></classes></test>
+    <test name="SKG Home Page Loading">
+        <classes><class name="HomePageLoadTime.testSKGHomePageLoading" ></class></classes></test>
+</suite>
+

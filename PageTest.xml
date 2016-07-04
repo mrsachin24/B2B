@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Page Test">
+    <test name="Test SKGHome 3DButton">
+        <classes><class name="B2B_PageLoadTime.testSKGHome3DButton" ></class></classes></test>
+     <test name="Test ARTHome 3DButton">
+        <classes><class name="B2B_PageLoadTime.testARTHome3DButton" ></class></classes></test>
+    <test name="Test Kohinoor 3DButton">
+        <classes><class name="B2B_PageLoadTime.testKohinoor3DButton" ></class></classes></test>
+</suite>
+

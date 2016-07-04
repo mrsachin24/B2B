@@ -1,0 +1,1 @@
+ant clean compile cleanFolder run zip email
