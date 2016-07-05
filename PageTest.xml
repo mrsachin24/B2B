@@ -6,5 +6,7 @@
         <classes><class name="B2B_PageLoadTime.testARTHome3DButton" ></class></classes></test>
     <test name="Test Kohinoor 3DButton">
         <classes><class name="B2B_PageLoadTime.testKohinoor3DButton" ></class></classes></test>
+	<test name="Test CoroNation 3DButton">
+        <classes><class name="B2B_PageLoadTime.testCoroNation3DButton" ></class></classes></test>	
 </suite>
 
