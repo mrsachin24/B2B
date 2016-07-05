@@ -1,0 +1,159 @@
+2016-07-05 15:16:34,795 DEBUG [testCoroNation3DButton_9] openBrowser ---  --- Browser
+2016-07-05 15:16:34,838 DEBUG [testCoroNation3DButton_9] Starting function openBrowser - chrome
+2016-07-05 15:16:34,838 DEBUG [testCoroNation3DButton_9] openBrowser----Number of Browser objects = 4
+2016-07-05 15:16:39,503 DEBUG [testCoroNation3DButton_9] Ending  function openBrowser with status PASS
+2016-07-05 15:16:39,505 DEBUG [testCoroNation3DButton_9] customNavigate --- URL_CORONATION,CORONATION_HomePage_Logo_xpath --- 
+2016-07-05 15:16:39,545 DEBUG [testCoroNation3DButton_9] Starting function customNavigate
+2016-07-05 15:16:49,521 DEBUG [testCoroNation3DButton_9] Element Present = CORONATION_HomePage_Logo_xpath
+2016-07-05 15:16:49,521 DEBUG [testCoroNation3DButton_9] The endTime is 1467712009
+2016-07-05 15:16:49,521 DEBUG [testCoroNation3DButton_9] Totaltime: 10 seconds
+2016-07-05 15:16:49,777 DEBUG [testCoroNation3DButton_9] Ending  function navigate with status PASS
+2016-07-05 15:16:49,777 DEBUG [testCoroNation3DButton_9] scrolltoElement --- HomePage_EB_UserName_xpath --- 
+2016-07-05 15:16:49,823 DEBUG [testCoroNation3DButton_9] scrolltoElement = HomePage_EB_UserName_xpath
+2016-07-05 15:16:49,823 DEBUG [testCoroNation3DButton_9] Finding element HomePage_EB_UserName_xpath
+2016-07-05 15:16:49,914 DEBUG [testCoroNation3DButton_9] input --- HomePage_EB_UserName_xpath --- Data_UserName
+2016-07-05 15:16:49,978 DEBUG [testCoroNation3DButton_9] Starting function inputHomePage_EB_UserName_xpath , foyrtest@foyr.com
+2016-07-05 15:16:49,978 DEBUG [testCoroNation3DButton_9] Finding element HomePage_EB_UserName_xpath
+2016-07-05 15:16:50,366 DEBUG [testCoroNation3DButton_9] Ending  function click with status PASS
+2016-07-05 15:16:50,366 DEBUG [testCoroNation3DButton_9] input --- HomePage_EB_Password_xpath --- Data_Password
+2016-07-05 15:16:50,425 DEBUG [testCoroNation3DButton_9] Starting function inputHomePage_EB_Password_xpath , password
+2016-07-05 15:16:50,425 DEBUG [testCoroNation3DButton_9] Finding element HomePage_EB_Password_xpath
+2016-07-05 15:16:50,757 DEBUG [testCoroNation3DButton_9] Ending  function click with status PASS
+2016-07-05 15:16:50,758 DEBUG [testCoroNation3DButton_9] click --- HomePage_BTN_Login_xpath --- 
+2016-07-05 15:16:50,826 DEBUG [testCoroNation3DButton_9] Starting function clickHomePage_BTN_Login_xpath
+2016-07-05 15:16:50,826 DEBUG [testCoroNation3DButton_9] Finding element HomePage_BTN_Login_xpath
+2016-07-05 15:16:51,321 DEBUG [testCoroNation3DButton_9] Ending  function click with status PASS
+2016-07-05 15:16:51,322 DEBUG [testCoroNation3DButton_9] isElementPresent --- ProjectPage_TXT_Username_xpath --- 
+2016-07-05 15:16:53,428 DEBUG [testCoroNation3DButton_9] Element Present = ProjectPage_TXT_Username_xpath
+2016-07-05 15:16:53,429 DEBUG [testCoroNation3DButton_9] scrolltoElement --- ProjectPage_CON_ProjectDes_xpath --- 
+2016-07-05 15:16:53,496 DEBUG [testCoroNation3DButton_9] scrolltoElement = ProjectPage_CON_ProjectDes_xpath
+2016-07-05 15:16:53,496 DEBUG [testCoroNation3DButton_9] Finding element ProjectPage_CON_ProjectDes_xpath
+2016-07-05 15:16:54,502 DEBUG [testCoroNation3DButton_9] moveMousetoElementClick --- ProjectPage_IMG_RoyalTreasure_xpath --- 
+2016-07-05 15:16:54,562 DEBUG [testCoroNation3DButton_9] Inside function moveMousetoElementClick = ProjectPage_IMG_RoyalTreasure_xpath
+2016-07-05 15:16:54,562 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:16:56,563 DEBUG [testCoroNation3DButton_9] Finding element ProjectPage_IMG_RoyalTreasure_xpath
+2016-07-05 15:16:56,787 DEBUG [testCoroNation3DButton_9] SelectTower ---  --- 
+2016-07-05 15:16:56,843 DEBUG [testCoroNation3DButton_9] Inside Function SelectTower
+2016-07-05 15:16:56,843 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:16:58,844 DEBUG [testCoroNation3DButton_9] Finding element TowerPage_CON_TowerList_xpath
+2016-07-05 15:16:58,975 DEBUG [testCoroNation3DButton_9] Number of Towers Present = 2
+2016-07-05 15:16:58,975 DEBUG [testCoroNation3DButton_9] Random Tower Number is 0
+2016-07-05 15:16:58,975 DEBUG [testCoroNation3DButton_9] scrolltoElementusingWebElement = [[[[ChromeDriver: chrome on XP (9c3c2c15ef74db8303ebec7e2d0da45c)] -> xpath: .//*[@id='tower_container']]] -> tag name: li]
+2016-07-05 15:16:59,059 DEBUG [testCoroNation3DButton_9] Selected Tower Block ID is = BLK00001
+2016-07-05 15:16:59,298 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:01,299 DEBUG [testCoroNation3DButton_9] testTower ---  --- 
+2016-07-05 15:17:01,354 DEBUG [testCoroNation3DButton_9] Finding element TowerPage_CON_RightTower_xpath
+2016-07-05 15:17:01,674 DEBUG [testCoroNation3DButton_9] Value of i = 0
+2016-07-05 15:17:02,627 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:04,820 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:07,038 DEBUG [testCoroNation3DButton_9] testTheme ---  --- 
+2016-07-05 15:17:07,137 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:09,139 DEBUG [testCoroNation3DButton_9] Finding element ThemePage_CON_Theme_css
+2016-07-05 15:17:09,294 DEBUG [testCoroNation3DButton_9] Number of themes in Theme Page = 3
+2016-07-05 15:17:09,596 DEBUG [testCoroNation3DButton_9] scrolltoElementusingWebElement = [[[[ChromeDriver: chrome on XP (9c3c2c15ef74db8303ebec7e2d0da45c)] -> css selector: .col-md-3.pad_btm.theme-thumbs]] -> tag name: li]
+2016-07-05 15:17:09,617 DEBUG [testCoroNation3DButton_9] Waiting for Second = 1
+2016-07-05 15:17:10,737 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:12,744 DEBUG [testCoroNation3DButton_9] testBudgetType ---  --- 
+2016-07-05 15:17:12,802 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:14,803 DEBUG [testCoroNation3DButton_9] Finding element ThemePage_CON_BudgetCON_xpath
+2016-07-05 15:17:15,020 DEBUG [testCoroNation3DButton_9] RandomBudgetNumber = 0
+2016-07-05 15:17:15,256 DEBUG [testCoroNation3DButton_9] Fusion
+2016-07-05 15:17:15,887 DEBUG [testCoroNation3DButton_9] Waiting for Second = 1
+2016-07-05 15:17:17,333 DEBUG [testCoroNation3DButton_9] testDesignType ---  --- 
+2016-07-05 15:17:17,441 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:19,442 DEBUG [testCoroNation3DButton_9] Finding element DesignPage_CON_Rooms_xpath
+2016-07-05 15:17:20,212 DEBUG [testCoroNation3DButton_9] Number of Designs in = 5
+2016-07-05 15:17:20,928 DEBUG [testCoroNation3DButton_9] scrolltoElementusingWebElement = [[ChromeDriver: chrome on XP (9c3c2c15ef74db8303ebec7e2d0da45c)] -> xpath: .//*[@id='content-3']/ul/li[5]]
+2016-07-05 15:17:20,958 DEBUG [testCoroNation3DButton_9] Waiting for Second = 1
+2016-07-05 15:17:22,225 DEBUG [testCoroNation3DButton_9] TestRoomGallary ---  --- 
+2016-07-05 15:17:22,300 DEBUG [testCoroNation3DButton_9] Inside function TestRoomGallary 
+2016-07-05 15:17:22,300 DEBUG [testCoroNation3DButton_9] Waiting for Second = 2
+2016-07-05 15:17:24,301 DEBUG [testCoroNation3DButton_9] Finding element DesignPage_CON_RoomGallary_xpath
+2016-07-05 15:17:24,444 DEBUG [testCoroNation3DButton_9] Finding element .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[1]
+2016-07-05 15:17:24,574 DEBUG [testCoroNation3DButton_9] Finding element .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[2]
+2016-07-05 15:17:24,667 DEBUG [testCoroNation3DButton_9] Finding element .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[3]
+2016-07-05 15:17:24,784 DEBUG [testCoroNation3DButton_9] Finding element .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[4]
+2016-07-05 15:17:24,892 DEBUG [testCoroNation3DButton_9] Finding element .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[5]
+2016-07-05 15:17:25,330 DEBUG [testCoroNation3DButton_9] scrolltoElementusingWebElement = [[[[ChromeDriver: chrome on XP (9c3c2c15ef74db8303ebec7e2d0da45c)] -> xpath: .//*[@id='designs']/div[1]/div[2]/div/div[4]/div[5]]] -> css selector: .customize_btn.customize_btn_left]
+2016-07-05 15:17:25,354 DEBUG [testCoroNation3DButton_9] Waiting for Second = 1
+2016-07-05 15:17:27,423 DEBUG [testCoroNation3DButton_9] Waiting for Second = 1
+2016-07-05 15:17:28,492 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:28,585 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:28,679 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:28,850 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:28,992 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,052 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,091 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,143 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,193 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,236 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,298 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,342 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,389 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,429 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,464 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,502 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,541 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:29,587 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,051 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,084 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,142 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,191 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,230 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,276 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,322 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,364 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,405 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,452 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,526 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,670 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,737 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,793 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,843 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,881 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:30,918 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,098 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,160 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,221 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,257 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,293 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,332 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,373 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,411 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,449 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,483 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,521 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,556 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,596 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,633 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,671 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,715 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,774 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,809 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,846 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,884 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,926 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:31,966 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:32,006 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:32,048 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:32,094 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:32,144 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:32,190 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,107 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,175 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,224 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,273 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,386 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,474 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:33,531 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:40,144 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:51,418 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:51,921 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:51,961 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:52,332 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:52,538 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:53,080 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:17:56,847 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:18:38,315 DEBUG [testCoroNation3DButton_9] Element Present = Room3D_IMG_LoadingBaar_xpath
+2016-07-05 15:18:47,184 DEBUG [testCoroNation3DButton_9] Current Page = http://54.169.88.162/#designs:project=PROJ0001&tower=BLK00001&unit_id=UID0003&design=PCKID00001
+2016-07-05 15:19:12,418 DEBUG [testCoroNation3DButton_9] Page Taking too much time to Load

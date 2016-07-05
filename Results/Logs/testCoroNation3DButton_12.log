@@ -1,0 +1,48 @@
+2016-07-05 15:22:37,027 DEBUG [testCoroNation3DButton_12] openBrowser ---  --- Browser
+2016-07-05 15:22:37,100 DEBUG [testCoroNation3DButton_12] Starting function openBrowser - chrome
+2016-07-05 15:22:37,101 DEBUG [testCoroNation3DButton_12] openBrowser----Number of Browser objects = 4
+2016-07-05 15:22:39,640 DEBUG [testCoroNation3DButton_12] Ending  function openBrowser with status PASS
+2016-07-05 15:22:39,641 DEBUG [testCoroNation3DButton_12] customNavigate --- URL_CORONATION,CORONATION_HomePage_Logo_xpath --- 
+2016-07-05 15:22:39,687 DEBUG [testCoroNation3DButton_12] Starting function customNavigate
+2016-07-05 15:22:47,743 DEBUG [testCoroNation3DButton_12] Element Present = CORONATION_HomePage_Logo_xpath
+2016-07-05 15:22:47,743 DEBUG [testCoroNation3DButton_12] The endTime is 1467712367
+2016-07-05 15:22:47,743 DEBUG [testCoroNation3DButton_12] Totaltime: 8 seconds
+2016-07-05 15:22:47,982 DEBUG [testCoroNation3DButton_12] Ending  function navigate with status PASS
+2016-07-05 15:22:47,982 DEBUG [testCoroNation3DButton_12] scrolltoElement --- HomePage_EB_UserName_xpath --- 
+2016-07-05 15:22:48,037 DEBUG [testCoroNation3DButton_12] scrolltoElement = HomePage_EB_UserName_xpath
+2016-07-05 15:22:48,037 DEBUG [testCoroNation3DButton_12] Finding element HomePage_EB_UserName_xpath
+2016-07-05 15:22:48,143 DEBUG [testCoroNation3DButton_12] input --- HomePage_EB_UserName_xpath --- Data_UserName
+2016-07-05 15:22:48,210 DEBUG [testCoroNation3DButton_12] Starting function inputHomePage_EB_UserName_xpath , foyrtest@foyr.com
+2016-07-05 15:22:48,210 DEBUG [testCoroNation3DButton_12] Finding element HomePage_EB_UserName_xpath
+2016-07-05 15:22:48,616 DEBUG [testCoroNation3DButton_12] Ending  function click with status PASS
+2016-07-05 15:22:48,616 DEBUG [testCoroNation3DButton_12] input --- HomePage_EB_Password_xpath --- Data_Password
+2016-07-05 15:22:48,716 DEBUG [testCoroNation3DButton_12] Starting function inputHomePage_EB_Password_xpath , password
+2016-07-05 15:22:48,716 DEBUG [testCoroNation3DButton_12] Finding element HomePage_EB_Password_xpath
+2016-07-05 15:22:48,991 DEBUG [testCoroNation3DButton_12] Ending  function click with status PASS
+2016-07-05 15:22:48,991 DEBUG [testCoroNation3DButton_12] click --- HomePage_BTN_Login_xpath --- 
+2016-07-05 15:22:49,070 DEBUG [testCoroNation3DButton_12] Starting function clickHomePage_BTN_Login_xpath
+2016-07-05 15:22:49,071 DEBUG [testCoroNation3DButton_12] Finding element HomePage_BTN_Login_xpath
+2016-07-05 15:22:49,335 DEBUG [testCoroNation3DButton_12] Ending  function click with status PASS
+2016-07-05 15:22:49,336 DEBUG [testCoroNation3DButton_12] isElementPresent --- ProjectPage_TXT_Username_xpath --- 
+2016-07-05 15:22:51,913 DEBUG [testCoroNation3DButton_12] Element Present = ProjectPage_TXT_Username_xpath
+2016-07-05 15:22:51,913 DEBUG [testCoroNation3DButton_12] scrolltoElement --- ProjectPage_CON_ProjectDes_xpath --- 
+2016-07-05 15:22:51,971 DEBUG [testCoroNation3DButton_12] scrolltoElement = ProjectPage_CON_ProjectDes_xpath
+2016-07-05 15:22:51,971 DEBUG [testCoroNation3DButton_12] Finding element ProjectPage_CON_ProjectDes_xpath
+2016-07-05 15:22:52,955 DEBUG [testCoroNation3DButton_12] moveMousetoElementClick --- ProjectPage_IMG_RoyalTreasure_xpath --- 
+2016-07-05 15:22:53,018 DEBUG [testCoroNation3DButton_12] Inside function moveMousetoElementClick = ProjectPage_IMG_RoyalTreasure_xpath
+2016-07-05 15:22:53,018 DEBUG [testCoroNation3DButton_12] Waiting for Second = 2
+2016-07-05 15:22:55,019 DEBUG [testCoroNation3DButton_12] Finding element ProjectPage_IMG_RoyalTreasure_xpath
+2016-07-05 15:22:55,263 DEBUG [testCoroNation3DButton_12] SelectTower ---  --- 
+2016-07-05 15:22:55,337 DEBUG [testCoroNation3DButton_12] Inside Function SelectTower
+2016-07-05 15:22:55,337 DEBUG [testCoroNation3DButton_12] Waiting for Second = 2
+2016-07-05 15:22:57,337 DEBUG [testCoroNation3DButton_12] Finding element TowerPage_CON_TowerList_xpath
+2016-07-05 15:22:57,471 DEBUG [testCoroNation3DButton_12] Number of Towers Present = 2
+2016-07-05 15:22:57,471 DEBUG [testCoroNation3DButton_12] Random Tower Number is 0
+2016-07-05 15:22:57,472 DEBUG [testCoroNation3DButton_12] scrolltoElementusingWebElement = [[[[ChromeDriver: chrome on XP (c220b03a79073218a0acc36b3c64cd7b)] -> xpath: .//*[@id='tower_container']]] -> tag name: li]
+2016-07-05 15:22:57,594 DEBUG [testCoroNation3DButton_12] Selected Tower Block ID is = BLK00001
+2016-07-05 15:22:57,836 DEBUG [testCoroNation3DButton_12] Waiting for Second = 2
+2016-07-05 15:22:59,837 DEBUG [testCoroNation3DButton_12] testTower ---  --- 
+2016-07-05 15:22:59,950 DEBUG [testCoroNation3DButton_12] Finding element TowerPage_CON_RightTower_xpath
+2016-07-05 15:23:00,339 DEBUG [testCoroNation3DButton_12] Value of i = 0
+2016-07-05 15:23:01,241 DEBUG [testCoroNation3DButton_12] Waiting for Second = 2
+2016-07-05 15:23:03,404 DEBUG [testCoroNation3DButton_12] Waiting for Second = 2
